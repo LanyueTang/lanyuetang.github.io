@@ -24,7 +24,7 @@ redirect_from:
 {% for n in rl_notes %}
   <li>
     <strong>{{ n.title }}</strong>
-    — <a href="{{ n.pdf }}">PDF</a>
+    — <a href="{{ site.baseurl }}{{ n.pdf }}">PDF</a>
     {% if n.date %}<span style="opacity:0.6;"> ({{ n.date }})</span>{% endif %}
   </li>
 {% endfor %}

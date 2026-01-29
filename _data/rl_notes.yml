@@ -1,23 +1,23 @@
 - title: "Convergence of Q-Learning via Stochastic Approximation"
-  pdf: "/files/notes/learning/ml/rl/convergency_of_Q__learning_proof(2).pdf"
+  pdf: "/lanyuetang.github.io/files/notes/learning/ml/rl/convergency_of_Q__learning_proof(2).pdf"
   date: "2025-11-18"
 
 - title: "RL 2: Bellman Equations and Operators (Greedy Policy, Banach Fixed Point, Contraction & Monotonicity)"
-  pdf: "/files/notes/learning/ml/rl/notes2.pdf"
+  pdf: "/lanyuetang.github.io/files/notes/learning/ml/rl/notes2.pdf"
   date: "2025-09-15"
 
 - title: "RL 3: Bellman Operators — Properties and Consequences (Monotonicity, Contraction, Fixed-Point Uniqueness, Error Bounds)"
-  pdf: "/files/notes/learning/ml/rl/notes3.pdf"
+  pdf: "/lanyuetang.github.io/files/notes/learning/ml/rl/notes3.pdf"
   date: "2025-09-22"
 
 - title: "RL 4: Planning with a Known Model (Policy Evaluation, Value Iteration, Policy Iteration, LP Formulation)"
-  pdf: "/files/notes/learning/ml/rl/notes4.pdf"
+  pdf: "/lanyuetang.github.io/files/notes/learning/ml/rl/notes4.pdf"
   date: "2025-10-15"
 
 - title: "RL 5: Learning from a Stream of Data 1 — Reward Learning (Stochastic Approximation, Exploration–Exploitation)"
-  pdf: "/files/notes/learning/ml/rl/notes5.pdf"
+  pdf: "/lanyuetang.github.io/files/notes/learning/ml/rl/notes5.pdf"
   date: "2025-11-01"
 
 - title: "RL 6: Learning from a Stream of Data 2 — Temporal Difference Learning (TD Error, SARSA, Q-Learning, SA Convergence)"
-  pdf: "/files/notes/learning/ml/rl/notes6.pdf"
+  pdf: "/lanyuetang.github.io/files/notes/learning/ml/rl/notes6.pdf"
   date: "2025-11-17"

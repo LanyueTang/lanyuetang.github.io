@@ -3,7 +3,7 @@ set -e
 
 mkdir -p /app/_paper_notes
 
-NOTEBOOK_URL="https://raw.githubusercontent.com/zhuobietly/lanyuetang.github.io/HEAD/_paper_notes/stochastic_process_pub.ipynb"
+NOTEBOOK_URL="https://raw.githubusercontent.com/lanyuetang/lanyuetang.github.io/main/_paper_notes/stochastic_process_pub.ipynb"
 curl -L "$NOTEBOOK_URL" -o /app/_paper_notes/stochastic_process_pub.ipynb
 
 python -m ipykernel install --name python3 --prefix /usr/local

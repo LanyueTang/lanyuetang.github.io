@@ -12,8 +12,16 @@ redirect_from:
 <h2 class="archive__subtitle">Learning notes</h2>
 
 <h3>Optimization</h3>
+<h4>Stochastic Programming</h4>
 <ul>
-  <li><em>(to be added)</em></li>
+{% assign sp_notes = site.data.sp_notes | sort: "date" | reverse %}
+{% for n in sp_notes %}
+  <li>
+    <strong>{{ n.title }}</strong>
+    — <a href="{{ site.baseurl }}{{ n.pdf }}">PDF</a>
+    {% if n.date %}<span style="opacity:0.6;"> ({{ n.date }})</span>{% endif %}
+  </li>
+{% endfor %}
 </ul>
 
 <h3>Machine Learning</h3>

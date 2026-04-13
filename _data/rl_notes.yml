@@ -21,3 +21,7 @@
 - title: "RL 6: Learning from a Stream of Data 2 — Temporal Difference Learning (TD Error, SARSA, Q-Learning, SA Convergence)"
   pdf: "/files/notes/learning/ml/rl/notes6.pdf"
   date: "2025-11-17"
+
+- title: "RL 7: value function approximation"
+  pdf: "/files/notes/learning/ml/rl/notes7.pdf"
+  date: "2026-4-13"
